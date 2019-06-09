@@ -1,9 +1,4 @@
----
-title: 3 Tips for new developers
-published: true
-description: tips for developers
-tags: #developer,#web-developer,#life,#experience
----
+
 <h2>Prolouge</h2>
 
 I know that there are many articles on the internet where devs share their experiences and you might be thinking why should I read them but from my personal experience I find these posts useful as I get to learn something new in every post 
