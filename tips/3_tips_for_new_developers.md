@@ -1,5 +1,5 @@
 ---
-title:3 Tips for new developers
+title: 3 Tips for new developers
 published: true
 description: tips for developers
 tags: #developer,#web-developer,#life,#experience

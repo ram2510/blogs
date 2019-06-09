@@ -2,7 +2,7 @@
 title: An advanced setup for Travis CI
 published: true
 description: A advanced setup of Travis CI which can cover many general cases
-tags: #git, #ci, #devops, #testing
+tags: #git,#ci,#devops,#testing
 ---
 
 In this blog post, I will guide you through the basics of the YAML file and then we will write a sample .travis.yml file which I try to make as general as possible so that you can use Travis CI more efficiently. Also, this blog post is for those people who are familiar with the concept of CI/CD and testing.
