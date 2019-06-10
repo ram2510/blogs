@@ -4,4 +4,4 @@ Here you will get all the blogs that I have written. I will be regularly updatin
 ## Directory structure
 - [Testing](testing/README.md) - This contains blog tutorials for Testing
 - [Tips](tips/README.md) - This contains Blog which are few tips that I shared from the expreinces I have gained.
-- [Promotion](promtion/README.md) - Thsi contains all the blogs that I wrote to promote my packages and programs 😊
+- [Promotion](promotion/README.md) - Thsi contains all the blogs that I wrote to promote my packages and programs 😊
